@@ -1,6 +1,6 @@
 +++
-title = "Interactive Two Day Programming Seminar"
-description = "Two day seminar"
+title = "Two Day Seminar"
+description = "Interactive Two Day Programming Seminar"
 weight = 1
 type = "post"
 class = "post first"

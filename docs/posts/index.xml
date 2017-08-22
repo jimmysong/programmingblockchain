@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Interactive Two Day Programming Seminar</title>
+      <title>Two Day Seminar</title>
       <link>http://programmingblockchain.com/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,7 +37,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/instructor/</guid>
-      <description>Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular (Bitcoin blog)[https://medium.com/@jimmysong]. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years.</description>
+      <description>Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular Bitcoin blog. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://programmingblockchain.com/posts/dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/dates/</guid>
+      <description> Planned Locations and Dates  LA Area - TBA Seoul, South Korea - TBA  </description>
     </item>
     
     <item>
