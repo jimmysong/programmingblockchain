@@ -1,7 +1,7 @@
 +++
 title = "Sign Up"
 description = "Sign Up"
-weight = 20
+weight = 100
 type = "post"
 class = "post last"
 +++
