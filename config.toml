@@ -1,0 +1,12 @@
+baseURL = "http://programmingblockchain.com/"
+languageCode = "en-us"
+title = "Programming Blockchain"
+theme = "hugoscroll"
+publishDir = "docs"
+[params]
+	github = "jimmysong"
+	cover = "/img/background.jpg"
+	logo = "/img/logo.png"
+	description = "Interactive 2-day Seminar"
+	firstbutton = "Program Description"
+	lastbutton = "Sign Up"

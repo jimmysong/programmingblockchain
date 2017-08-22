@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Blockchain</title>
+    <link>http://programmingblockchain.com/</link>
+    <description>Recent content on Programming Blockchain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://programmingblockchain.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interactive Two Day Programming Seminar</title>
+      <link>http://programmingblockchain.com/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/intro/</guid>
+      <description>Learn the ins and outs of blockchain development in this interactive 2-day seminar. Programmers will learn the details of how Bitcoin works including live coding challenges to sharpen their skills. They will learn:
+ Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying messages Encrypting/Decrypting messages Parsing Transactions Signing Transactions Script parsing and processing Address construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing  </description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>http://programmingblockchain.com/posts/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/requirements/</guid>
+      <description>Programmers attending this seminar are expected to know:
+ Basics of Bitcoin Intermediate Programming Some Python  Programmers should bring:
+ Laptop with Python installed  </description>
+    </item>
+    
+    <item>
+      <title>Sign Up</title>
+      <link>http://programmingblockchain.com/posts/outtro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/outtro/</guid>
+      <description>Space is limited to 30 students.
+ Cost: 0.5 BTC per student. Email to reserve your spot!  </description>
+    </item>
+    
+  </channel>
+</rss>
