@@ -6,10 +6,12 @@ type = "post"
 class = "post last"
 +++
 
-Space is limited to 30 students.
+Registration Details
 
   * Cost: 0.5 BTC per student.
+  * Space is limited.
   * [Apply here](https://goo.gl/forms/6FBsaYRMipA6j7JN2)
 
 Please email jimmy at programmingblockchain.com with any questions.
 
+Copyright &copy; Programming Blockchain LLC

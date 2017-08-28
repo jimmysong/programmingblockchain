@@ -1,7 +1,7 @@
 +++
 title = "Instructor"
 description = "Instructor"
-weight = 20
+weight = 30
 type = "post"
 +++
 
