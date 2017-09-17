@@ -1,7 +1,7 @@
 +++
 title = "Schedule"
 description = "Schedule"
-weight = 20
+weight = 50
 type = "post"
 +++
 
@@ -22,9 +22,9 @@ type = "post"
 
 | Time              |  |
 | ----------------  | ----------- |
-| 8:00am - 10:00am  | Session 5 - Blocks |
+| 8:00am - 10:00am  | Session 5 - Transactions Part 3 |
 | 10:00am - 10:15am | Break |
-| 10:15am - 12:00pm | Session 6 - Simplified Payment Verification |
+| 10:15am - 12:00pm | Session 6 - Blocks/Simplified Payment Verification |
 | 12:00pm - 1:00pm  | Lunch |
 | 1:00pm - 2:30pm   | Session 7 - Network Messaging |
 | 2:30pm - 2:45pm   | Break |

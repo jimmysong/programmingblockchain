@@ -1,12 +1,13 @@
 +++
 title = "Dates"
 description = "Locations and Dates"
-weight = 40
+weight = 70
 type = "post"
 +++
 
 ### Planned Locations and Dates
-  * Austin, TX - September 5 and 6 (very limited seating)
   * Santa Monica, CA - October 12 and 13
+  * Bay Area, CA - October 31 and November 1
   * Seoul, South Korea - TBA
-  * Other locations and dates will be considered. Please use email below.
+  * London, UK - TBA
+  * Other locations and dates will be considered. Please use the email below.

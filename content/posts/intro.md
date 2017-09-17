@@ -11,16 +11,19 @@ Learn the ins and outs of blockchain development in this interactive 2-day semin
   * Finite Fields
   * Elliptic Curves
   * Elliptic Curve Cryptography
-  * Signing/Verifying messages
-  * Encrypting/Decrypting messages
+  * Signing/Verifying Messages
   * Parsing Transactions
   * Signing Transactions
+  * Creating Transactions
   * Script parsing and processing
-  * Address construction
+  * Address construction/Private Key WIF Format Construction
   * Parsing Blocks
   * Validating Proof-of-Work
   * Difficulty Calculations
   * Merkle Tree Construction
   * Merkle Proofs
   * Network Message Parsing
+  * Simple Bitcoin Network Node
+  * Finding a job in Bitcoin Development
+
 

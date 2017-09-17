@@ -17,7 +17,46 @@
       
       <guid>http://programmingblockchain.com/posts/intro/</guid>
       <description>Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen their skills. You will learn:
- Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying messages Encrypting/Decrypting messages Parsing Transactions Signing Transactions Script parsing and processing Address construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing  </description>
+ Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying Messages Parsing Transactions Signing Transactions Creating Transactions Script parsing and processing Address construction/Private Key WIF Format Construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing Simple Bitcoin Network Node Finding a job in Bitcoin Development  </description>
+    </item>
+    
+    <item>
+      <title>Commitment</title>
+      <link>http://programmingblockchain.com/posts/committed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/committed/</guid>
+      <description>We at Programming Blockchain are committed to making the world better through Bitcoin. The biggest deficit in the Bitcoin ecosystem is the lack of developers that understand the technical details of Bitcoin. This two-day seminar is a way to bridge the gap.
+When you take this course, you aren&amp;rsquo;t just getting two days of instruction, you are joining a community of like-minded developers. After the seminar, you will join a community of developers with whom you can collaborate with on various projects to increase your profile.</description>
+    </item>
+    
+    <item>
+      <title>Testimonials</title>
+      <link>http://programmingblockchain.com/posts/testimonials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/testimonials/</guid>
+      <description>&amp;ldquo;I attended the seminar in Austin and it was awesome! Jimmy was able to comprehensibly teach us an incredible amount of content in 2 days.&amp;rdquo; - Rob Just
+&amp;ldquo;This seminar really helped me &amp;ldquo;get it&amp;rdquo; and gave me the confidence start developing for bitcoin. Make sure you prepare for it. It ain&amp;rsquo;t easy!&amp;rdquo; - Mohammed AlShiekh
+&amp;ldquo;I highly recommend @jimmysong&amp;rsquo;s http://programmingblockchain.com/ I feel much more confident coding low-level Bitcoin functions.&amp;rdquo; - Michael Goldstein</description>
+    </item>
+    
+    <item>
+      <title>Sample Exercises</title>
+      <link>http://programmingblockchain.com/posts/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/sample/</guid>
+      <description>These are examples of exercises you will be doing during the class.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://programmingblockchain.com/posts/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/schedule/</guid>
+      <description> Day 1    Time      8:00am - 9:00am Registration   9:00am - 10:30am Session 1 - Foundational Math   10:30am - 10:45am Break   10:45am - 12:15pm Session 2 - ECC Public Key Cryptography   12:15pm - 1:00pm Lunch   1:00pm - 2:30pm Session 3 - Transactions Part 1   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 4 - Transactions Part 2    Day 2    Time      8:00am - 10:00am Session 5 - Transactions Part 3   10:00am - 10:15am Break   10:15am - 12:00pm Session 6 - Blocks/Simplified Payment Verification   12:00pm - 1:00pm Lunch   1:00pm - 2:30pm Session 7 - Network Messaging   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 8 - Advanced Topics/Q&amp;amp;A    </description>
     </item>
     
     <item>
@@ -27,17 +66,8 @@
       
       <guid>http://programmingblockchain.com/posts/requirements/</guid>
       <description>Programmers attending this seminar are expected to know:
- Intermediate Programming Basics of Bitcoin Some Python  Programmers should bring:
- Laptop with Python installed  </description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>http://programmingblockchain.com/posts/schedule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://programmingblockchain.com/posts/schedule/</guid>
-      <description> Day 1    Time      8:00am - 9:00am Registration   9:00am - 10:30am Session 1 - Foundational Math   10:30am - 10:45am Break   10:45am - 12:15pm Session 2 - ECC Public Key Cryptography   12:15pm - 1:00pm Lunch   1:00pm - 2:30pm Session 3 - Transactions Part 1   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 4 - Transactions Part 2    Day 2    Time      8:00am - 10:00am Session 5 - Blocks   10:00am - 10:15am Break   10:15am - 12:00pm Session 6 - Simplified Payment Verification   12:00pm - 1:00pm Lunch   1:00pm - 2:30pm Session 7 - Network Messaging   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 8 - Advanced Topics/Q&amp;amp;A    </description>
+ Intermediate Programming Basics of Bitcoin Some Python 3  Programmers should bring:
+ Laptop with Python 3.5 installed  </description>
     </item>
     
     <item>
@@ -46,7 +76,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/instructor/</guid>
-      <description>Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular Bitcoin blog. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years.</description>
+      <description>Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular Bitcoin blog. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years. Jimmy graduated from the University of Michigan with a Bachelors of Science in Mathematics.</description>
     </item>
     
     <item>
@@ -55,7 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/dates/</guid>
-      <description> Planned Locations and Dates  Austin, TX - September 5 and 6 (very limited seating) Santa Monica, CA - October 12 and 13 Seoul, South Korea - TBA Other locations and dates will be considered. Please use email below.  </description>
+      <description> Planned Locations and Dates  Santa Monica, CA - October 12 and 13 Bay Area, CA - October 31 and November 1 Seoul, South Korea - TBA London, UK - TBA Other locations and dates will be considered. Please use the email below.  </description>
     </item>
     
     <item>
