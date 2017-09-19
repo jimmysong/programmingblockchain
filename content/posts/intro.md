@@ -6,7 +6,7 @@ type = "post"
 class = "post first"
 +++
 
-Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen their skills. You will learn:
+Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:
 
   * Finite Fields
   * Elliptic Curves

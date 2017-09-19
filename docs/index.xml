@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/intro/</guid>
-      <description>Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen their skills. You will learn:
+      <description>Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:
  Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying Messages Parsing Transactions Signing Transactions Creating Transactions Script parsing and processing Address construction/Private Key WIF Format Construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing Simple Bitcoin Network Node Finding a job in Bitcoin Development  </description>
     </item>
     
@@ -86,6 +86,17 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       
       <guid>http://programmingblockchain.com/posts/dates/</guid>
       <description> Planned Locations and Dates  Santa Monica, CA - October 12 and 13 Bay Area, CA - October 31 and November 1 Seoul, South Korea - TBA London, UK - TBA Other locations and dates will be considered. Please use the email below.  </description>
+    </item>
+    
+    <item>
+      <title>Scholarship</title>
+      <link>http://programmingblockchain.com/posts/scholarship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://programmingblockchain.com/posts/scholarship/</guid>
+      <description>Programming Blockchain is pleased to partner with Pinkcoin to offer one person a scholarship to the Santa Monica Programming Blockchain Seminar!
+You will receive free admission on 10&amp;frasl;12-13 to the Santa Monica, CA Seminar.
+Interested people should apply here.</description>
     </item>
     
     <item>

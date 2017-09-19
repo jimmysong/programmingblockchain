@@ -460,7 +460,7 @@
   content: ""; }
 
 .fa-asterisk:before {
-  content: ""; }
+  content: ""; }
 
 .fa-exclamation-circle:before {
   content: ""; }
@@ -1736,7 +1736,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Times New Roman", serif;
+  font-family: "Helvetica", sans-serif;
   font-size: 1.5rem;
   line-height: 1.6em;
   color: black; }
@@ -1813,7 +1813,7 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: #9FD067;
+  background-color: #492;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -2051,7 +2051,7 @@ ul li {
   height: 100%;
   margin-bottom: 0rem;
   text-align: center;
-  color: white;
+  color: black;
   background: #0099cc no-repeat center center;
   background-size: cover; }
 
@@ -2080,7 +2080,7 @@ ul li {
   font-size: 1.8rem;
   line-height: 1.5em;
   font-weight: 300;
-  font-family: "Times New Roman", serif;
+  font-family: "Helvetica", sans-serif;
   letter-spacing: 0; }
 
 .post-holder {
@@ -2090,8 +2090,8 @@ ul li {
   position: relative; }
 
 .oneOff {
-  background: #5BA4E5;
-  color: #fff; }
+  background: #CDE;
+  color: #000; }
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
@@ -2236,7 +2236,7 @@ a.fn-item.active {
   position: relative;
   margin: 4rem 0 0 0;
   padding: 4rem 0 0 0;
-  border-top: #EBF2F6 1px solid; }
+  border-top: #000 1px solid; }
 
 .post-footer h4 {
   font-size: 1.8rem;
