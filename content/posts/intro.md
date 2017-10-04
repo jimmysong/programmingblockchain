@@ -23,7 +23,7 @@ Learn the ins and outs of blockchain development in this interactive 2-day semin
   * Merkle Tree Construction
   * Merkle Proofs
   * Network Message Parsing
-  * Simple Bitcoin Network Node
+  * Segwit
   * Finding a job in Bitcoin Development
 
 

@@ -13,5 +13,5 @@ Programmers attending this seminar are expected to know:
 
 Programmers should bring:
 
-  * Laptop with Python 3.5 and Git installed
+  * Laptop with Python 3.5, Pip and Git installed
 
