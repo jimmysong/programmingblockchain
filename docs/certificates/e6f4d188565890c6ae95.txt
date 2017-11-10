@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar at Stanford on October 31 and November 1, 2017 to Kevin Su <kevinsu1212@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJaBUg5AAoJEPqmF+MmeeRVPLkH/0vAIDlUDG6sc2JamrUdzcdb
+qMFcC9srpe5m8PB1jeVS2HlcZrOOa224Wy4p6F0j6ELmJqZwqnRws9HILSxe3cJL
+yoeay4RUXNI3p+niH1ktUbyTbq4EzUn0sEmNKILKOeH/og7kyeQuITYTYuVE6cnn
+ORE557EdWYoXWuJlI4oFb+ZYqE3cpnFOADtk8S3Zgz4tHFCx/CQFLxZZfR3ouREs
+3M4DKFPc0GC8oBmEjHv9h0WXMcoRJ1mRgAIrtt9+ubBYaKGuRueuvB2BhBEK6LCQ
+feoWrOiawNcFY3J0uTtWZH3u46I12Qws46fUHP0j/Mu9DUSQz3kjWdzHBvg6Zjg=
+=Xqj9
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/e6f4d188565890c6ae95.txt

@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar at Stanford on October 31 and November 1, 2017 to Michael Ruescher <rueschermichael@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJaBUH0AAoJEPqmF+MmeeRVyPwH/R+oehpBZuQCqogGQpSNU7G0
+Uoo1bsHkUJPUcqF67OM9e7PqP4UBTkEIs7MGWFWQDHKilreom9HR1J96IJCj8xk2
+X2FBAZ8S3SKavODw4O1wyEYziOSjtMUps1YQ5kZyYmqiH4QEqeKNFn5IZJAX42Fd
+ILUCNL+zGDvxgLtbMsqnoRwhUG1RcD25zvX/t+xiHmmCboqEHk3cZorPh9Jc9rt6
+KyxOKjJ/P/wsiyrAah3PUT+wrsgh0cXxM7mKMzNryTDCWDwAXNmLs80ej0uxwG/h
+xejFMU5bjRz3yVARS4/GuT2/NvRzRbHZDqM9kGsHFeMSeNxwFAXBJ7UAa7Sz3mk=
+=AmYe
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/01fdc4d5e63c20e7d417.txt
