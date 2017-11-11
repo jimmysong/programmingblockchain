@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Austin on September 5 and 6, 2017 to Napoleon Cole <napoleoncole@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJaBmS3AAoJEPqmF+MmeeRVVGAH/0A6FCKQpv6IqeR0iyJkzTzG
+bkHkXc8SUAGIbxtZDQ9oSvc8Ou8wrQNV5X7To2CAhpoNt//MPal7GipkqABbAto9
+hIh7wbs2EVQhN7NrnRwZiNNADMXPUTHP3VBNXAIN4etDG6vW6EmofEwgIJnmo0kR
+jK5jSpGG0BR/6XHkKpCgP7j6CilPIOPyo8/KiVAVovOw6DHogtk/GOArhRllvfHl
+syPo5KS7QOjoUP857qL5gDFWhHUAb5QQvJsgHjOTlrnOH/Nvu2W97saq2Yo29/0P
+xuw4nEkCbimeUx62/MMu9j6HJVMy2eL6plJG3iPT1buB0dJ6lw/gzVJVsYhPDG0=
+=7qLR
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/2adf8baf3b273303e223.txt
