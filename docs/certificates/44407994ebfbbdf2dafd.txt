@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar at Stanford on October 31 and November 1, 2017 to Ashwin, whose PGP fingerprint is 310f3b6de4b577c82cf8a939b23e327403700945 and available here: https://keybase.io/ashwinl/pgp_keys.asc?fingerprint=310f3b6de4b577c82cf8a939b23e327403700945
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJaBmG0AAoJEPqmF+MmeeRVIwgH/jwYW+wzY/W8Dy0aW2pU57eS
+dIA2Vj92BoMemnsVadodZmtbrqgSdQiBjmEKsR0FGKvlbf9TIUL+M6486H0310s6
+1pMwVHsaqP3Gg2/y80BVmReAgKxTOTgILX6vkhYDXPdDEpBdP8vwBtOQiwqSepkD
+qTcjme+mD2dNNJHeg9fCVqkF7BTWmQU54NDoseff+IxSlqOIcMYP0YmfTQ3yDVS4
+uW/uY9dreTlM/N2BNCI+X5I0o4SuVgLG1Fbuow2kwZxvv4859i0Lc+Bx+x9zhI3u
+BwuZ7F5tec6NOGBtBxfJDNwRIKaemQr1HIRfKqjk8wvWCnCfZvzQ5il/ukfi/sw=
+=sOKA
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/44407994ebfbbdf2dafd.txt
