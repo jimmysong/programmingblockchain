@@ -9,8 +9,8 @@ class = "post last"
 Registration Details
 
   * Cost: $4000 per student payable in BTC.
-  * $1000 discount if applying 28+ days before the event.
   * $500 discount if applying 14+ days before the event.
+  * $1000 discount if applying 28+ days before the event.
   * Space is limited.
   * [Apply here](https://goo.gl/forms/6FBsaYRMipA6j7JN2)
 
