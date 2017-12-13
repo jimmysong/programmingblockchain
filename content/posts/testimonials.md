@@ -5,6 +5,8 @@ weight = 30
 type = "post"
 +++
 
+"Went to this last week. Still reeling from diving into bare metal Bitcoin! I highly recommend it for getting into Bitcoin development. Nothing else in this space comes close." - [Adam](https://twitter.com/hevyw8_/status/940290675110793216)
+
 "I just finished the Programming Blockchain course with Jimmy Song , in beautiful Santa Monica! 
 
 This is THE COURSE to take for a highly technical, hands-on, deep dive into the Bitcoin ecosystem.
