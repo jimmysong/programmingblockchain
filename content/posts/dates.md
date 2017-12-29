@@ -10,7 +10,7 @@ type = "post"
   * London, UK - January 22 and 23, 2018
   * Amsterdam, Netherlands - January 26 and 27, 2018
   * Israel - January 29 and 30, 2018
-  * Tampa, FL - TBA
+  * Tampa, FL - March 1 and 2, 2018
   * Seoul, South Korea - TBA
   * Sao Paulo, Brazil - TBA
   * Athens, Greece - TBA
