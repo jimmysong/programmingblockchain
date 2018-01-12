@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/intro/</guid>
-      <description>Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:
+      <description>   Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:
  Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying Messages Parsing Transactions Signing Transactions Creating Transactions Script parsing and processing Address construction/Private Key WIF Format Construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing Segwit Finding a job in Bitcoin Development  </description>
     </item>
     
@@ -36,10 +36,9 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/testimonials/</guid>
-      <description>&amp;ldquo;Went to this last week. Still reeling from diving into bare metal Bitcoin! I highly recommend it for getting into Bitcoin development. Nothing else in this space comes close.&amp;rdquo; - Adam
-&amp;ldquo;I just finished the Programming Blockchain course with Jimmy Song , in beautiful Santa Monica!
-This is THE COURSE to take for a highly technical, hands-on, deep dive into the Bitcoin ecosystem.
-It started with the math behind elliptic curve cryptography and then, before we knew it, we were creating transactions by hand, in hexadecimal, then submitting them to the bitcoin testnet.</description>
+      <description>Went to this last week. Still reeling from diving into bare metal Bitcoin! I highly recommend it for getting into Bitcoin development. Nothing else in this space comes close. https://t.co/HQqf86ZNMJ
+&amp;mdash; adam (@hevyw8_) December 11, 2017  Amazing experience at #ProgrammingBlockchain. Coding #bitcoin basics from scratch; ecc to transactions. @jimmysong&amp;#39;s seminar is high quality
+&amp;mdash; Brian KimJohnson (@bajohns) October 24, 2017  I attended the seminar in Austin and it was awesome!</description>
     </item>
     
     <item>
@@ -86,7 +85,7 @@ It started with the math behind elliptic curve cryptography and then, before we 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/dates/</guid>
-      <description>Planned Locations and Dates  Charlotte, NC - January 17 and 18, 2018 London, UK - January 22 and 23, 2018 Amsterdam, Netherlands - January 26 and 27, 2018 Israel - January 29 and 30, 2018 Tampa, FL - March 1 and 2, 2018 Seoul, South Korea - TBA Sao Paulo, Brazil - TBA Athens, Greece - TBA Other locations and dates will be considered. Please use the email below.</description>
+      <description>Planned Locations and Dates  Charlotte, NC - January 17 and 18, 2018 (SOLD OUT) London, UK - January 22 and 23, 2018 (SOLD OUT) Amsterdam, Netherlands - January 26 and 27, 2018 (SOLD OUT) Israel - January 29 and 30, 2018 Tampa, FL - March 1 and 2, 2018 Hong Kong - TBA Seoul, South Korea - TBA Sao Paulo, Brazil - TBA Athens, Greece - TBA Other locations and dates will be considered.</description>
     </item>
     
     <item>
