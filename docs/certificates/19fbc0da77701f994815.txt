@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in London on January 22 and 23, 2018 to Alan Carbery <alancarb@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJac7muAAoJEPqmF+MmeeRVFy8H/jTzG4Wy+30VRfErfD8l181Q
+GDs8JQcFOJiwChZFWCl4uUkzij1djCrE/Jxi/5GpJ7VO2U574Ko8vZfoNah8TONW
+NZpRCscYjdMdyMHmeVzKJb80iFD3NAS0/TPrGv2VXid0CuDtvV9C+iX3PTOKgydP
+n2+qZrQPdtAY26KDm6J2nsJM1wD+Aciex6r/wvmuJm/3AtOGtrFoudXp3u0+Ur99
+UgGbhn+gnnoMMZHfyQXAvnigSuFCnuAMbZ4tBb9aFnEjWr5mSQfP0oMre74X0FRg
+NoByrC/fqKzXvNpvH1AssRghaS6TzKV9p0hq6fyYvXGN0ILZq+x78L07Qyp5KoE=
+=LZfu
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/19fbc0da77701f994815.txt

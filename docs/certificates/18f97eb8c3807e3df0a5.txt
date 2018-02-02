@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Charlotte on January 17 and 18, 2018 to Daniel Uribe <daniel@genobank.io>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJac7jIAAoJEPqmF+MmeeRVO78H/3OG51tT74DDtrKfn+p+BcGT
+9aSLphwWWt2eiNRNABwvmpj5YUshQj4tMHvAa1bJlT5kOydzm0v7f1qw9vilD/C2
+PgcGTc8TJbQjmvi8/3PK0hP3bnlHzwQU/oZstm7XsBOKMc5oh9O5Ew84bfvUG7jq
+4g4hcd8xqMAC3uoFI3+praaBn/HPmRctR551VbwZwYM3dWeWtWiwOZ9gegTN0xcN
+yNYsbXla8+PsJ4KiKePAVAlo/k93n+6rB+duzAnDhVZX5hS+Q06qfqmjTdp4kujb
+Z+lSvif1RllDqLzs31Acz03zhJZ4VY5u37/7AkXzYXkN+uXW0Wp9tB7NKKC5KBc=
+=Fdrf
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/18f97eb8c3807e3df0a5.txt

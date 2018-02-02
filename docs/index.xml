@@ -6,9 +6,7 @@
     <description>Recent content on Programming Blockchain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://programmingblockchain.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://programmingblockchain.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Two Day Seminar</title>
@@ -16,8 +14,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/intro/</guid>
-      <description>   Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:
- Finite Fields Elliptic Curves Elliptic Curve Cryptography Signing/Verifying Messages Parsing Transactions Signing Transactions Creating Transactions Script parsing and processing Address construction/Private Key WIF Format Construction Parsing Blocks Validating Proof-of-Work Difficulty Calculations Merkle Tree Construction Merkle Proofs Network Message Parsing Segwit Finding a job in Bitcoin Development  </description>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/uY9RkvVepzg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Learn the ins and outs of blockchain development in this interactive 2-day seminar. You will learn the details of how Bitcoin works including live coding challenges to sharpen your skills. You will learn:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Finite Fields&lt;/li&gt;
+&lt;li&gt;Elliptic Curves&lt;/li&gt;
+&lt;li&gt;Elliptic Curve Cryptography&lt;/li&gt;
+&lt;li&gt;Signing/Verifying Messages&lt;/li&gt;
+&lt;li&gt;Parsing Transactions&lt;/li&gt;
+&lt;li&gt;Signing Transactions&lt;/li&gt;
+&lt;li&gt;Creating Transactions&lt;/li&gt;
+&lt;li&gt;Script parsing and processing&lt;/li&gt;
+&lt;li&gt;Address construction/Private Key WIF Format Construction&lt;/li&gt;
+&lt;li&gt;Parsing Blocks&lt;/li&gt;
+&lt;li&gt;Validating Proof-of-Work&lt;/li&gt;
+&lt;li&gt;Difficulty Calculations&lt;/li&gt;
+&lt;li&gt;Merkle Tree Construction&lt;/li&gt;
+&lt;li&gt;Merkle Proofs&lt;/li&gt;
+&lt;li&gt;Network Message Parsing&lt;/li&gt;
+&lt;li&gt;Segwit&lt;/li&gt;
+&lt;li&gt;Finding a job in Bitcoin Development&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +50,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/committed/</guid>
-      <description>We at Programming Blockchain are committed to making the world better through Bitcoin. The biggest deficit in the Bitcoin ecosystem is the lack of developers that understand the technical details of Bitcoin. This two-day seminar is a way to bridge the gap.
-When you take this course, you aren&amp;rsquo;t just getting two days of instruction, you are joining a community of like-minded developers. After the seminar, you will join a community of developers with whom you can collaborate with on various projects to increase your profile.</description>
+      <description>&lt;p&gt;We at Programming Blockchain are committed to making the world better through Bitcoin. The biggest deficit in the Bitcoin ecosystem is the lack of developers that understand the technical details of Bitcoin. This two-day seminar is a way to bridge the gap.&lt;/p&gt;
+
+&lt;p&gt;When you take this course, you aren&amp;rsquo;t just getting two days of instruction, you are joining a community of like-minded developers. After the seminar, you will join a community of developers with whom you can collaborate with on various projects to increase your profile. We are committed to your success and getting you involved in the Bitcoin/Blockchain space as a developer.&lt;/p&gt;
+
+&lt;p&gt;At the end of the course, you will receive a PGP signed e-certificate from Jimmy Song.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,9 +64,40 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/testimonials/</guid>
-      <description>Went to this last week. Still reeling from diving into bare metal Bitcoin! I highly recommend it for getting into Bitcoin development. Nothing else in this space comes close. https://t.co/HQqf86ZNMJ
-&amp;mdash; adam (@hevyw8_) December 11, 2017  Amazing experience at #ProgrammingBlockchain. Coding #bitcoin basics from scratch; ecc to transactions. @jimmysong&amp;#39;s seminar is high quality
-&amp;mdash; Brian KimJohnson (@bajohns) October 24, 2017  I attended the seminar in Austin and it was awesome!</description>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ProgrammingBlockchain?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ProgrammingBlockchain&lt;/a&gt; is best workshop I ever used to participate in. &lt;a href=&#34;https://twitter.com/jimmysong?ref_src=twsrc%5Etfw&#34;&gt;@jimmysong&lt;/a&gt; made perfect balance between thereory and practical excersises. That was amazing two days of going deep into Bitcoin internals.&lt;/p&gt;&amp;mdash; Jaro (@chompomonim) &lt;a href=&#34;https://twitter.com/chompomonim/status/955872623136792578?ref_src=twsrc%5Etfw&#34;&gt;January 23, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Just finished &lt;a href=&#34;https://twitter.com/hashtag/programmingblockchain?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#programmingblockchain&lt;/a&gt; taught by the incredible &lt;a href=&#34;https://twitter.com/jimmysong?ref_src=twsrc%5Etfw&#34;&gt;@jimmysong&lt;/a&gt;. Was an amazing learning experience and I cannot wait for more! Thanks for teaching me 😊🥇👏&lt;/p&gt;&amp;mdash; Anand Patel (@anandpatel___) &lt;a href=&#34;https://twitter.com/anandpatel___/status/956556202611302401?ref_src=twsrc%5Etfw&#34;&gt;January 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Went to this last week. Still reeling from diving into bare metal Bitcoin! I highly recommend it for getting into Bitcoin development. Nothing else in this space comes close. &lt;a href=&#34;https://t.co/HQqf86ZNMJ&#34;&gt;https://t.co/HQqf86ZNMJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; adam (@hevyw8_) &lt;a href=&#34;https://twitter.com/hevyw8_/status/940290675110793216?ref_src=twsrc%5Etfw&#34;&gt;December 11, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Amazing experience at &lt;a href=&#34;https://twitter.com/hashtag/ProgrammingBlockchain?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ProgrammingBlockchain&lt;/a&gt;. Coding &lt;a href=&#34;https://twitter.com/hashtag/bitcoin?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#bitcoin&lt;/a&gt; basics from scratch; ecc to transactions. &lt;a href=&#34;https://twitter.com/jimmysong?ref_src=twsrc%5Etfw&#34;&gt;@jimmysong&lt;/a&gt;&amp;#39;s seminar is high quality&lt;/p&gt;&amp;mdash; Brian KimJohnson (@bajohns) &lt;a href=&#34;https://twitter.com/bajohns/status/922668179125653504?ref_src=twsrc%5Etfw&#34;&gt;October 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I attended the seminar in Austin and it was awesome! Jimmy was able to comprehensibly teach us an incredible amount of content in 2 days.&lt;/p&gt;&amp;mdash; Rob Just (@rob_just) &lt;a href=&#34;https://twitter.com/rob_just/status/905809465177464836?ref_src=twsrc%5Etfw&#34;&gt;September 7, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This seminar really helped me &amp;quot;get it&amp;quot; and gave me the confidence start developing for bitcoin. Make sure you prepare for it. It ain&amp;#39;t easy!&lt;/p&gt;&amp;mdash; Mohammed AlShiekh (@MAlashiekh) &lt;a href=&#34;https://twitter.com/MAlashiekh/status/908832527879610368?ref_src=twsrc%5Etfw&#34;&gt;September 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I just finished the Programming Blockchain course with Jimmy Song , in beautiful Santa Monica!&lt;/p&gt;
+
+&lt;p&gt;This is THE COURSE to take for a highly technical, hands-on, deep dive into the Bitcoin ecosystem.&lt;/p&gt;
+
+&lt;p&gt;It started with the math behind elliptic curve cryptography and then, before we knew it, we were creating transactions by hand, in hexadecimal, then submitting them to the bitcoin testnet. And that was just the warm up act!&lt;/p&gt;
+
+&lt;p&gt;Thank you Jimmy for creating this awesome course!&amp;rdquo; - &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6324855226700435456/&#34;&gt;Costin Rizan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Just finished a 2 day mind-bendingly intensive Programming Blockchain seminar with Jimmy Song in London.  Starting with Finite Fields &amp;amp; Elliptic Curve Cryptography, right through Transaction Signing and Verification to scripting Smart Contracts.  All hands on coding in Python so that you come out of it really understanding how it work even if your brains are oozing out your ears a little. :)&amp;rdquo; - &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6361990277346975744&#34;&gt;Alan Carbery&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -47,7 +106,16 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/sample/</guid>
-      <description>These are examples of exercises you will be doing during the class.</description>
+      <description>&lt;p&gt;These are examples of exercises you will be doing during the class.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide1.png&#34; alt=&#34;Sample Slide 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide2.png&#34; alt=&#34;Sample Slide 2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide3.png&#34; alt=&#34;Sample Slide 3&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide4.png&#34; alt=&#34;Sample Slide 4&#34; /&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -56,7 +124,114 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/schedule/</guid>
-      <description> Day 1    Time      8:30am - 9:00am Registration   9:00am - 10:30am Session 1 - Foundational Math   10:30am - 10:45am Break   10:45am - 12:15pm Session 2 - ECC, Signatures, Verification and Addresses   12:15pm - 1:00pm Lunch   1:00pm - 2:30pm Session 3 - Transaction Parsing   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 4 - Script, P2PKH and Validation    Day 2    Time      8:30am - 9:00am Meet and greet   9:00am - 11:00am Session 5 - Transactions Construction and P2SH   11:00am - 11:15am Break   11:15am - 12:30pm Session 6 - Blocks, Proof of Work, Coinbase   12:30pm - 1:00pm Lunch   1:00pm - 2:30pm Session 7 - SPV and Network Messaging   2:30pm - 2:45pm Break   2:45pm - 4:45pm Session 8 - Advanced Topics and Q&amp;amp;A    </description>
+      <description>
+
+&lt;h3 id=&#34;day-1:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Day 1&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;8:30am - 9:00am&lt;/td&gt;
+&lt;td&gt;Registration&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9:00am - 10:30am&lt;/td&gt;
+&lt;td&gt;Session 1 - Foundational Math&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:30am - 10:45am&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:45am - 12:15pm&lt;/td&gt;
+&lt;td&gt;Session 2 - ECC, Signatures, Verification and Addresses&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:15pm - 1:00pm&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1:00pm - 2:30pm&lt;/td&gt;
+&lt;td&gt;Session 3 - Transaction Parsing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2:30pm - 2:45pm&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2:45pm - 4:45pm&lt;/td&gt;
+&lt;td&gt;Session 4 - Script, P2PKH and Validation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;day-2:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Day 2&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;8:30am - 9:00am&lt;/td&gt;
+&lt;td&gt;Meet and greet&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9:00am - 11:00am&lt;/td&gt;
+&lt;td&gt;Session 5 - Transactions Construction and P2SH&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:00am - 11:15am&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11:15am - 12:30pm&lt;/td&gt;
+&lt;td&gt;Session 6 - Blocks, Proof of Work, Coinbase&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:30pm - 1:00pm&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1:00pm - 2:30pm&lt;/td&gt;
+&lt;td&gt;Session 7 - SPV and Network Messaging&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2:30pm - 2:45pm&lt;/td&gt;
+&lt;td&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2:45pm - 4:45pm&lt;/td&gt;
+&lt;td&gt;Session 8 - Advanced Topics and Q&amp;amp;A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
     <item>
@@ -65,9 +240,21 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/requirements/</guid>
-      <description>Programmers attending this seminar are expected to know:
- Intermediate Programming Basics of Bitcoin Some Python 3  Programmers should bring:
- Laptop Software installed (instructions will be sent to students before seminar)   </description>
+      <description>&lt;p&gt;Programmers attending this seminar are expected to know:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intermediate Programming&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitcoin.org/en/&#34;&gt;Basics of Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learnpythonthehardway.org/book/ex0.html&#34;&gt;Some Python 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Programmers should bring:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Laptop&lt;/li&gt;
+&lt;li&gt;Software installed (instructions will be sent to students before seminar)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -76,7 +263,10 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/instructor/</guid>
-      <description>Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular Bitcoin blog. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years. Jimmy graduated from the University of Michigan with a Bachelors of Science in Mathematics.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/jimmysong.jpg&#34; alt=&#34;Jimmy Song&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular &lt;a href=&#34;https://medium.com/@jimmysong&#34;&gt;Bitcoin blog&lt;/a&gt;. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years. Jimmy graduated from the University of Michigan with a Bachelors of Science in Mathematics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -85,7 +275,19 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/dates/</guid>
-      <description>Planned Locations and Dates  Charlotte, NC - January 17 and 18, 2018 (SOLD OUT) London, UK - January 22 and 23, 2018 (SOLD OUT) Amsterdam, Netherlands - January 26 and 27, 2018 (SOLD OUT) Israel - January 29 and 30, 2018 Tampa, FL - March 1 and 2, 2018 Hong Kong - TBA Seoul, South Korea - TBA Sao Paulo, Brazil - TBA Athens, Greece - TBA Other locations and dates will be considered.</description>
+      <description>
+
+&lt;h3 id=&#34;planned-locations-and-dates:b659d06311f64e3a6e217223e606256c&#34;&gt;Planned Locations and Dates&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tampa, FL - March 1 and 2, 2018&lt;/li&gt;
+&lt;li&gt;Hong Kong - TBA&lt;/li&gt;
+&lt;li&gt;Seoul, South Korea - TBA&lt;/li&gt;
+&lt;li&gt;Sao Paulo, Brazil - TBA&lt;/li&gt;
+&lt;li&gt;Athens, Greece - TBA&lt;/li&gt;
+&lt;li&gt;Other locations and dates will be considered. Please use the email below.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -94,8 +296,10 @@ When you take this course, you aren&amp;rsquo;t just getting two days of instruc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/scholarship/</guid>
-      <description>Pinkcoin is pleased to offer a scholarship to potential developers for Charlotte, London and Amsterdam.
-Apply Here</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://getstarted.with.pink/scholarships/&#34;&gt;Pinkcoin&lt;/a&gt; is pleased to offer a scholarship to potential developers for Charlotte, London and Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSepiFS-wE2CHdIQP5fc84sUUS_Aqd4E6ZQleSNueesB7tnhpQ/viewform&#34;&gt;Apply Here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,9 +308,20 @@ Apply Here</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://programmingblockchain.com/posts/outtro/</guid>
-      <description>Registration Details
- Cost: $4000 per student payable in BTC. $500 discount if applying 14+ days before the event. $1000 discount if applying 28+ days before the event. Space is limited. Apply here  Please email jimmy at programmingblockchain.com with any questions.
-Copyright &amp;copy; Programming Blockchain LLC</description>
+      <description>&lt;p&gt;Registration Details&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cost: $4000 per student payable in BTC.&lt;/li&gt;
+&lt;li&gt;$500 discount if applying 14+ days before the event.&lt;/li&gt;
+&lt;li&gt;$1000 discount if applying 28+ days before the event.&lt;/li&gt;
+&lt;li&gt;Space is limited.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/forms/6FBsaYRMipA6j7JN2&#34;&gt;Apply here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please email jimmy at programmingblockchain.com with any questions.&lt;/p&gt;
+
+&lt;p&gt;Copyright &amp;copy; Programming Blockchain LLC&lt;/p&gt;
+</description>
     </item>
     
   </channel>
