@@ -6,6 +6,8 @@ type = "post"
 +++
 
 
+"It was a deep dive into the Bitcoin protocol and the underlying mathematical concepts that are fundamental to making Bitcoin transactions and the core technology." - [Rohan Agarwal](https://medium.com/a7v-co/my-programming-blockchain-experience-d74e7a5b4a64)
+
 {{< tweet 955872623136792578 >}}
 
 {{< tweet 956556202611302401 >}}
