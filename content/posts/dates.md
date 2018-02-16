@@ -8,7 +8,7 @@ type = "post"
 ### Planned Locations and Dates
   * Tampa, FL - March 1 and 2, 2018
   * Hong Kong - March 22 and 23, 2018
-  * Seoul, South Korea - TBA
+  * Seoul, South Korea - March 26 and 27, 2018
   * Sao Paulo, Brazil - TBA
   * Athens, Greece - TBA
   * Other locations and dates will be considered. Please use the email below.
