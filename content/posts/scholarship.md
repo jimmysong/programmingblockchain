@@ -5,6 +5,6 @@ weight = 90
 type = "post"
 +++
 
-[Pinkcoin](https://getstarted.with.pink/scholarships/) is pleased to offer a scholarship to women developers for Tampa. 
+We are pleased to offer several scholarships to women developers for San Francisco. 
 
-[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddbTUWTjlrfRWvCIFbozdqniFJeWeIf90xpc_sYZNqUdhDeA/viewform)
+[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSdswZ9bg_b_tMGe9hlbZAtDXCbeHNRkOITVJqJ9X1iW_pK-HA/viewform)
