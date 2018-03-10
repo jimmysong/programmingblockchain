@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Tampa, FL on March 1-2, 2018 to John Wainaina Karanja <karanja@bithub.co.ke>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJaozUBAAoJEPqmF+MmeeRVSC8H/0vxYhJhsFiUbsnGAUnY0xy0
+81FTrpQ4Vdk+RWG07LDahcAa+PKkeXP4D1fwNRhM87Y1l+DZ3yzuUnsGyE0Kkx2L
++CmwWrUE3c1R1RggHCZCvbiAIFlN+9QDQM6qNZR+goiusXOl91Eb1yLnPMM5YVAf
+oxpQzOS9f3mlS5A69YrzQ8UaaOsK1i4vOO8rFHj2ToePkBhFEvRgUwjPxXK4HTQI
+yMZPDvoQAudv1+lGZWdFl9z+gzStZS5S95JZuREDKjd60IkpzaDgyTSyZnkL1n4i
+8NhnU08o4XWfWHvoOgy5tGHExP6IeBWpjps+lp1GVkZMeXYSlyKOqThKytzi9S0=
+=f5KG
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/0d050e4a860f673af2f4.txt
