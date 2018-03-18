@@ -5,5 +5,5 @@ weight = 99
 type = "post"
 +++
 
-![Garage Society](/img/gargaesociety.png "")
+![Garage Society](/img/garagesociety.png "")
 
