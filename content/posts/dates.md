@@ -6,8 +6,11 @@ type = "post"
 +++
 
 ### Planned Locations and Dates
-  * San Francisco, CA - April 17-18, 2018
   * New York, NY - May 17-18, 2018
   * Sao Paulo, Brazil - TBA
   * Athens, Greece - TBA
   * Other locations and dates will be considered. Please use the email below.
+
+Programming Blockchain is proud to be a part of Blockchain Week NYC:
+
+![Blockchain Week](/img/blockchainweek.png "")
