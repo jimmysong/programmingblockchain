@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in San Francisco, CA on April 17-18, 2018 to Carl Dong <carl@blockstream.io>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJa3m1xAAoJEPqmF+MmeeRVjukH/iZVFuVv3UK5gYgnB7ba97bB
+6GdFFS0q4Akd1bqkFkoDmO36PCE/p+0Za4YYy3AMovMnyiOnCCeqNMTDLPLxJtcv
+GmyIYbJvnSPjPniLhNGb1D4FLG02zgggosAkMmIXCLExrk2zzsCy6xRc+wsDGkbk
+jira6dG5EwYeX0fRE5FjwWBOOrw/mQgellxh3mYSFA/JglfNLgecPqJbOtFCsVB3
+f+WLjZdS+tjQqAtZp2kOmg/OVstENm347M/OAxFbMWqvG5Oh092i912lnd3Q6+EA
+7vik/hXjxdX7wWopDHJjzxr1dfe2tp/GQSZ/VGjQWLsp/PTn854El3fohC0H+08=
+=2u6O
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/c849b095b74378ba332e.txt

@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in San Francisco, CA on April 17-18, 2018 to Charles Fettinger <charles@onacloud.org>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJa3m11AAoJEPqmF+MmeeRVhO0H/11dhh68gR+tW1QajEWghMUR
+zitCzLXfUo2h+Y51X6yEQIMPnAhbrxYaVdYsXmrDfdTPXCP/eMxcpLf5tfXDm//K
+oAOmZdosgtP2MlSp8VhyHEz+77GV9bcF4T9XIJ3xJVC8dxptgSnfJXnJ1Hmk0Lyx
+N3pGOEiu7aJ6KCu0fqzXReuoJ///L66SrhqzfAmC73yBSVMs9AxfjqFWzHeA+hp6
+MEZP0quTOHP7n6JlhdMRa5pXr8yd/F7zNhxg/z432E57tWKcbOMOMTw8Dw7Ww4M0
+q4PyaJVC+vYpRXecrxiha3emjwQR/lzvNfQz2YOeh1cIFYyF1SU1A27EEyY9DDs=
+=H0iz
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/d7c31a087f8d985eb910.txt
