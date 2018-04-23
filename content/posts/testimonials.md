@@ -5,8 +5,17 @@ weight = 30
 type = "post"
 +++
 
+{{< tweet 987028151040589824 >}}
 
-"It was a deep dive into the Bitcoin protocol and the underlying mathematical concepts that are fundamental to making Bitcoin transactions and the core technology." - [Rohan Agarwal](https://medium.com/a7v-co/my-programming-blockchain-experience-d74e7a5b4a64)
+{{< tweet 986998976397406214 >}}
+
+{{< tweet 986814217935204352 >}}
+
+{{< tweet 986795175719583744 >}}
+
+{{< tweet 986739196915167232 >}}
+
+{{< tweet 987445074677174273 >}}
 
 {{< tweet 955872623136792578 >}}
 
@@ -16,10 +25,7 @@ type = "post"
 
 {{< tweet 922668179125653504 >}}
 
-{{< tweet 905809465177464836 >}}
-
-{{< tweet 908832527879610368 >}}
-
+"It was a deep dive into the Bitcoin protocol and the underlying mathematical concepts that are fundamental to making Bitcoin transactions and the core technology." - [Rohan Agarwal](https://medium.com/a7v-co/my-programming-blockchain-experience-d74e7a5b4a64)
 
 "I just finished the Programming Blockchain course with Jimmy Song , in beautiful Santa Monica! 
 
