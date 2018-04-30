@@ -7,7 +7,7 @@ type = "post"
 
 Programmers attending this seminar are expected to know:
 
-  * [Intermediate Python](https://www.coursera.org/learn/python)
+  * [Intermediate Python](https://www.py4e.com)
   * [Basics of Bitcoin](https://bitcoin.org/en/)
 
 Programmers should bring:
