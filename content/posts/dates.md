@@ -13,6 +13,8 @@ type = "post"
   * Athens, Greece - TBA
   * Other locations and dates will be considered. Please use the email below.
 
+Want to be informed when there are new dates/locations? Sign up for the [Bitcoin Tech Talk Newsletter](http://eepurl.com/cZr_Aj)!
+
 Programming Blockchain is proud to be a part of Blockchain Week NYC:
 
 ![Blockchain Week](/img/blockchainweek.png "")
