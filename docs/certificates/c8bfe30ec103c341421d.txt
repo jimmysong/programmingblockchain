@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in New York, NY on May 17-18, 2018 to Andrew Carpenter <andrew@ethos.io>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbA2ulAAoJEPqmF+MmeeRVkTkH/0fc1MwvfNxZW8/KN7m18s8C
+1/G0mXqrUwfG8/L4BFhZ1J5qa8nlXNTcpi2IbGGdpspUPSwF3decAX7UCOmZ6W3S
+1iLkhFDjLpz5gC6IOmNiGRT+LrcKOGHVFdepR8hri1Aiv0fYX6jr5MeQ6kYYgZG7
+8sP5/ZUPGaIj9ALv7kQF+YZ/BqH1OwXpCphwFfgBheUrfHmyhj0rKusIi7tKNXf1
+E8i0u3JSQegq4nCj48VRiDQ09Zt/U2AQOsny1HjTk3KuiSGvIR5c8z02Q/qn2EQh
+w3tVIY9G+F3gYgzZVm2V7o0ygBz3d251BrtmoVYMvVG87RyzlhFu6v4yzqZq8zQ=
+=GAko
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/c8bfe30ec103c341421d.txt

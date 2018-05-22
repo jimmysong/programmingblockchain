@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in New York, NY on May 17-18, 2018 to Jaco Greyling <greylingpj@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbA2uRAAoJEPqmF+MmeeRVmk0H/R7NN45fjF/MJcolgzmtgP3S
+IK6/96238cWmdwiY5qUfbKtthVPdcHh5g9Wl8inCImeLeJ7fqto5tXgB7shbg7El
+RobZunyhxFaU+WrQwbMcH9tPhGfN6PJBfRqnBZOYDpCb1k+Ghd/4C/cXoH1fI+g+
+bx+MOcscNH+W/X7o087H5DPxqT71x+o+c+ntfB8X3IENmgcDsPUnsouXBdOr4Dn4
+rcXYlyxVJQ6rsCUYlCj9ehjyyLyKS4Qhv4GmR77tMNMp65bgyphNDzKpLOX5MoAj
+xI4XcaOIK8RQCj8A3gO/yAI90MlB8TNTJmC2XT3FnZr1cf+C+BtR1ouE5zuKlxQ=
+=oROO
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/861375258564c8d210dd.txt
