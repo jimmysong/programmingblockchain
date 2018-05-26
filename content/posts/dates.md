@@ -9,6 +9,7 @@ type = "post"
   * Toronto, Canada - May 28-29, 2018
   * Sao Paulo, Brazil - June 12-13, 2018
   * Denver, Colorado - July 9-10, 2018
+  * SF, CA - July 26-27, 2018
   * Athens, Greece - TBA
   * Other locations and dates will be considered. Please use the email below.
 
