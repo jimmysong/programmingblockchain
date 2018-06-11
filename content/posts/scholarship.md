@@ -5,5 +5,5 @@ weight = 90
 type = "post"
 +++
 
-We are pleased to offer several scholarships to developers for [Sao Paulo, Denver and San Francisco](https://docs.google.com/forms/d/e/1FAIpQLSd-xGglUMZpHR8smUNvGyGtj2cn-pn9kwk4s3W5GRrz1rag5A/viewform)!
+We are pleased to offer several scholarships to developers for [Denver and San Francisco](https://docs.google.com/forms/d/e/1FAIpQLSd-xGglUMZpHR8smUNvGyGtj2cn-pn9kwk4s3W5GRrz1rag5A/viewform)!
 

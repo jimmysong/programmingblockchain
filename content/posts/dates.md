@@ -6,7 +6,6 @@ type = "post"
 +++
 
 ### Planned Locations and Dates
-  * Sao Paulo, Brazil - June 12-13, 2018
   * Denver, Colorado - July 9-10, 2018
   * San Francisco, CA - July 26-27, 2018
   * Athens, Greece - TBA
