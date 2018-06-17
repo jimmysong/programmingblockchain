@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Sao Paulo, Brazil on June 12-13, 2018 to Pedro Manuel Torres <pedro.torres@foxbit.com.br>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbJrzkAAoJEPqmF+MmeeRVEHEH/iwy5IQSt9BPiI8728COUHeV
+4IK8yXw9Jk9vO7BMvoZeeJq1wsKhwwrc8iyXsBQuGihCevzLQywxfYcjih+//7JT
+0YrGtdoVUquq1d6QGR3N19UYFXeVbpPOYVPRP+ZYWNswBerT+wilpF4WYLyDNGnm
+Np4pff4U0dVmF8w6YTb73dbIiIlwYHPudsPZtF4XAMMJqCfDbZfE8BwV9BTuaau4
+ACL1aWG9ipyKzJ0BjVwXX81UPvBDIpmqFNPlnpYzJ8lcJwRh0/7oQTkUm1rLlCS2
+XgUMYfqapXuCGdY+qaKLGDUibJ1M9hRBKizTPaFQe2NuTjbN9xnJZiD6J/ywea4=
+=1Qxz
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/d0bdf6ec7be61571ee71.txt
