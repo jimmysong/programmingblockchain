@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Denver, Colorado on July 9-10, 2018 to Dustin Stanton <dstanton@protonmail.ch>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbRhkCAAoJEPqmF+MmeeRVo7kIAIc5aqb6IblhjXt7L+a0jDTU
+bnKKQkPnz15to5907DUvacdFJUObod5qIQd8QyXtZ6SprcqQYPQYzoNgVYgvFpka
+YxJezaMD7AJPYajzD+27K4eioe3J2Z52vtqGeT9qmxmgxtYNTiWqShFSnQq5Jv8D
+aqktGVDV1l2sCkYhHRsqXuYmWj46Jh6bfgHFnpeCuy72Hv5MDBrmOaXhdCvpsjFS
+1VD/AOC3kPYRxn58Ong1fwOG5wWel1MbY3sK0zzs4tDbdls0H722CCB6V7rm27pi
+2ylvHxLW5bugjFRP/yBu8NPW3xPmkzR1U+YUtG0L/M5wW3UxcuDjHNIrFWCek30=
+=rEea
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/e67b1e4c0d455e1c1fa8.txt
