@@ -1,4 +1,4 @@
-baseURL = "http://programmingblockchain.com/"
+baseURL = "https://programmingblockchain.com/"
 languageCode = "en-us"
 title = "Programming Blockchain"
 theme = "hugoscroll"

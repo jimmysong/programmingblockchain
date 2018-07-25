@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Programming Blockchain</title>
-    <link>http://programmingblockchain.com/posts/</link>
+    <link>https://programmingblockchain.com/posts/</link>
     <description>Recent content in Posts on Programming Blockchain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://programmingblockchain.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://programmingblockchain.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Two Day Seminar</title>
-      <link>http://programmingblockchain.com/posts/intro/</link>
+      <link>https://programmingblockchain.com/posts/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/intro/</guid>
+      <guid>https://programmingblockchain.com/posts/intro/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/uY9RkvVepzg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Commitment</title>
-      <link>http://programmingblockchain.com/posts/committed/</link>
+      <link>https://programmingblockchain.com/posts/committed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/committed/</guid>
+      <guid>https://programmingblockchain.com/posts/committed/</guid>
       <description>&lt;p&gt;We at Programming Blockchain are committed to making the world better through Bitcoin. The biggest deficit in the Bitcoin ecosystem is the lack of developers that understand the technical details of Bitcoin. This two-day seminar is a way to bridge the gap.&lt;/p&gt;
 
 &lt;p&gt;When you take this course, you aren&amp;rsquo;t just getting two days of instruction, you are joining a community of like-minded developers. After the seminar, you will join a community of developers with whom you can collaborate with on various projects to increase your profile. We are committed to your success and getting you involved in the Bitcoin/Blockchain space as a developer.&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Testimonials</title>
-      <link>http://programmingblockchain.com/posts/testimonials/</link>
+      <link>https://programmingblockchain.com/posts/testimonials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/testimonials/</guid>
+      <guid>https://programmingblockchain.com/posts/testimonials/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I spent 1.5 years trying to learn the things &lt;a href=&#34;https://twitter.com/jimmysong?ref_src=twsrc%5Etfw&#34;&gt;@jimmysong&lt;/a&gt; taught us on Day 1 of Programming Blockchain. Well worth it. With all the misinformation out there, this course is a must.&lt;/p&gt;&amp;mdash; Lamar (@LamarDealMaker) &lt;a href=&#34;https://twitter.com/LamarDealMaker/status/1016474144936882176?ref_src=twsrc%5Etfw&#34;&gt;July 10, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -132,28 +132,28 @@
     
     <item>
       <title>Sample Exercises</title>
-      <link>http://programmingblockchain.com/posts/sample/</link>
+      <link>https://programmingblockchain.com/posts/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/sample/</guid>
+      <guid>https://programmingblockchain.com/posts/sample/</guid>
       <description>&lt;p&gt;These are examples of exercises you will be doing during the class.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide1.png&#34; alt=&#34;Sample Slide 1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://programmingblockchain.com/img/sampleslide1.png&#34; alt=&#34;Sample Slide 1&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide2.png&#34; alt=&#34;Sample Slide 2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://programmingblockchain.com/img/sampleslide2.png&#34; alt=&#34;Sample Slide 2&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide3.png&#34; alt=&#34;Sample Slide 3&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://programmingblockchain.com/img/sampleslide3.png&#34; alt=&#34;Sample Slide 3&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/sampleslide4.png&#34; alt=&#34;Sample Slide 4&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://programmingblockchain.com/img/sampleslide4.png&#34; alt=&#34;Sample Slide 4&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>http://programmingblockchain.com/posts/schedule/</link>
+      <link>https://programmingblockchain.com/posts/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/schedule/</guid>
+      <guid>https://programmingblockchain.com/posts/schedule/</guid>
       <description>
 
 &lt;h3 id=&#34;day-1:6b0be342d4ab5efd25856c2371c7688a&#34;&gt;Day 1&lt;/h3&gt;
@@ -266,10 +266,10 @@
     
     <item>
       <title>Requirements</title>
-      <link>http://programmingblockchain.com/posts/requirements/</link>
+      <link>https://programmingblockchain.com/posts/requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/requirements/</guid>
+      <guid>https://programmingblockchain.com/posts/requirements/</guid>
       <description>&lt;p&gt;Programmers attending this seminar are expected to know:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -288,11 +288,11 @@
     
     <item>
       <title>Instructor</title>
-      <link>http://programmingblockchain.com/posts/instructor/</link>
+      <link>https://programmingblockchain.com/posts/instructor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/instructor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://programmingblockchain.com/img/jimmysong.jpg&#34; alt=&#34;Jimmy Song&#34; /&gt;&lt;/p&gt;
+      <guid>https://programmingblockchain.com/posts/instructor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://programmingblockchain.com/img/jimmysong.jpg&#34; alt=&#34;Jimmy Song&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jimmy Song is a Bitcoin Core Contributor and former VP of Engineering for Armory. He caught the Bitcoin bug back in 2011 and started contributing to Bitcoin open source projects since 2013. He&amp;rsquo;s a contributor to CoinDesk and has a popular &lt;a href=&#34;https://medium.com/@jimmysong&#34;&gt;Bitcoin blog&lt;/a&gt;. He&amp;rsquo;s been teaching blockchain to engineers for over 3 years. Jimmy graduated from the University of Michigan with a Bachelors of Science in Mathematics.&lt;/p&gt;
 </description>
@@ -300,10 +300,10 @@
     
     <item>
       <title>Dates</title>
-      <link>http://programmingblockchain.com/posts/dates/</link>
+      <link>https://programmingblockchain.com/posts/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/dates/</guid>
+      <guid>https://programmingblockchain.com/posts/dates/</guid>
       <description>
 
 &lt;h3 id=&#34;planned-locations-and-dates:b659d06311f64e3a6e217223e606256c&#34;&gt;Planned Locations and Dates&lt;/h3&gt;
@@ -321,20 +321,20 @@
     
     <item>
       <title>Scholarship</title>
-      <link>http://programmingblockchain.com/posts/scholarship/</link>
+      <link>https://programmingblockchain.com/posts/scholarship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/scholarship/</guid>
+      <guid>https://programmingblockchain.com/posts/scholarship/</guid>
       <description>&lt;p&gt;We are pleased to offer several scholarships to developers for &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd-xGglUMZpHR8smUNvGyGtj2cn-pn9kwk4s3W5GRrz1rag5A/viewform&#34;&gt;Denver and San Francisco&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Apply</title>
-      <link>http://programmingblockchain.com/posts/outtro/</link>
+      <link>https://programmingblockchain.com/posts/outtro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://programmingblockchain.com/posts/outtro/</guid>
+      <guid>https://programmingblockchain.com/posts/outtro/</guid>
       <description>&lt;p&gt;Registration Details&lt;/p&gt;
 
 &lt;ul&gt;
