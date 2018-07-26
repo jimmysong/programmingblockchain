@@ -6,7 +6,6 @@ type = "post"
 +++
 
 ### Planned Locations and Dates
-  * San Francisco, CA - July 26-27, 2018
   * Chicago, IL - August 21-22, 2018
   * Prague, Czech Republic - October 8-9, 2018
   * Other locations and dates will be considered. Please use the email below.
