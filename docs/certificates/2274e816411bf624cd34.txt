@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Salt Lake City, Utah on July 16-17, 2018 to Kieran <kieran@identitymind.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbWnO7AAoJEPqmF+MmeeRVgqkH/3ge/podR3vk5bF7BIkrrAKC
+cjQm7PYfQ9tws9xP9shOkMDFGpM/RGbB89d6gcr7T8sN1+APaYRz/+wCTWUdgGD1
+ytxPlffIMql7676/Aru1VqhfoH2TCpIag9T/BkNOsVfLbl6LTh6DhpJsyLnql3DS
+wgKygbNtIkQklfoIz9yDpK08VTbX+oY7eDaHAtP9i/u8Oz69EXvs0+9dcgSj/153
+vJmNDwTY8xi8zqUtVLfTRju1KoKAxVFPqH7sSJnXwxotK12r5V5lSSzb6NXa23ES
+bF2a/f3on+r25a5l2u90KTLZ7yV1Hh+bmLsRoXvFsfdmqMlTTns2zEp86sIeb8Q=
+=ahga
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/2274e816411bf624cd34.txt
