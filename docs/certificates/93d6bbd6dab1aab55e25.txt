@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in San Francisco, CA on July 26-27, 2018 to Joaquin Beltran <joaquinbeltran1@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbXpnQAAoJEPqmF+MmeeRVYQoH/i05rvbH1+WVLt8Uu4s41bvo
+e6CkPoi2FzjxRwLGJ3mlCF5opM1JHa6PZQT1WcoNlmPQDT4fo7i5mscD5ZCdzUjB
+NYMgXzAMsYvfhM2tUiR41Ud4IYnfIkrZWdE85nH3UYxYqR+ME8qFTuYiHQ2Kn8ku
+i+7oMfqY9Iz2YJbbJk6X3qLy1YIpl9ZpTfeDJaEVurBkRIvwZXxlxuEDEBM6a2Pl
+pHzC7V/rGIh/MyTIMgJkIi66WKPUyIW9j6VhbmCpq4Z4p0YLZCA+byGJ+qxV8Ujo
+uOLB+tRgVzWwILunKvrIqkeMxsh6p5VKiUIbkn+6eFi+M8X+V077axjNy7Wip+M=
+=rmtN
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/93d6bbd6dab1aab55e25.txt
