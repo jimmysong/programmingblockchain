@@ -6,7 +6,6 @@ type = "post"
 +++
 
 ### Planned Locations and Dates
-  * Chicago, IL - August 21-22, 2018
   * Prague, Czech Republic - October 8-9, 2018
   * Other locations and dates will be considered. Email me using the info below!
 
