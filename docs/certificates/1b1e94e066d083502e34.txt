@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Chicago, IL on August 21-22, 2018 to Matt Pazar <mattpazar@protonmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluD7qUACgkQ+qYX4yZ5
+5FXd0wgAkBEwPkHJw+2Eja9U/PouYgFDVnR34gHIhykSmM6kf57GYO8Cf60i9+hN
+mUauL1ce94UoSZB0RZQWj6zNKaaB6976eO22myXTRWPlBOGI3cnyQElDGO3eB8hL
+QkpWGfAuk06AaN8iu9f2nlfSeEyUYj5TJZiJVdyyUEX4scvIpUKMNlG5zmxXp29I
+z5MjKOtdfbTsu58bplz117VLGyHVhU0S5VF1ldDfQnJtm+XGWJc7nGgcj6q77pVd
+XjCa1K8BEckjz82QHqpOctiaD0vAihHx08GGxeQePZgH5sRHsvzaTl0n++vf2MNw
+tUmY1AL/un8rxoGaTP+xbPbXuGYR1A==
+=O2r1
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/1b1e94e066d083502e34.txt

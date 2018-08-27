@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Chicago, IL on August 21-22, 2018 to Ravi Gandhavadi <ravi.gandhavadi@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluD7qEACgkQ+qYX4yZ5
+5FXmFwf/WJmYetmwWHleQID3GeHtYNVBG7h0lwGSvreHNUoh+NUFBGOG7sdyXXZq
+ekCYbZbnLSng1XnnhgNPm30YOn/cX2JSqqi5ritZo9aOoLF+3/rXtSWQaJ/f2i+y
+O9C6yV9Z7kEtipWlLAB2X5CjGwdKkaujm66X5swk6hNiEnu2Vni+FImz+BGUPHqz
+6uLiyyYFshjuegV4w/gjaDPMjd08kpuLa3wj3a55fiur7hFmiQIoyuEmkgsCWsvO
+YYKBMiQp2OWj7uOTKFzV2GCEcy06FwZbpy9q+LwGwQ8gPKbNICZnKjD7aEYDqvlt
+utbjGWMQ51Im+ZVI7V1Eyopqdnp8yg==
+=ASdD
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/1f9c940774fb165d5f3c.txt

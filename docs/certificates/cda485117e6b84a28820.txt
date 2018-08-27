@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Chicago, IL on August 21-22, 2018 to Yan Pritzker <yan@pritzker.ws>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluD7p0ACgkQ+qYX4yZ5
+5FXtrwf9FzH4i4z+vKAQfmfvHD/fGGFRe8Nd7ufg4qR//2o4jsk2j4kMG+Sh5THt
+tYQsMvUDSD9Q5WY4laQgJX4sXeRpyDm8p+C6Rd/Q4ijboRxd/AIv/bAjX/6Jxe2E
+xO+oTCLeoPr56EcUml6kG6vq64zme3mvQZ6xzN1eQhFLlOy8WcYe6VYwKcObyrRI
+P0HOiT1y6DIIefwYL1I4bOy49UMBJf6X7S9pggWsa1WIp/e4QyGawrGY22kWY6+I
+gWPpIO/qV7VlzeyyyEVnAWAVfVlyZO0yeIVE79/mwBAYAFOB73H9ZNx5YzbSA4Au
+mhmsAOCQXzHY8pqtb8GElT5ykipu7A==
+=U6Tt
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/cda485117e6b84a28820.txt
