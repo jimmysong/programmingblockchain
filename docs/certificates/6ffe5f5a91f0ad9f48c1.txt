@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to Aravinda Rao <aravinda.rao@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGB4ACgkQ+qYX4yZ5
+5FWwxAf8CAWtuVYiBiDQ4quv8QUcA9g828EaEBIWvdyq+w99UJaCSQGut180uXOd
+3ZWWLJJzrt3nz2Wz2DWwPlZkr+SkDyTFVJpKCafIdQKyVVM/2Y9Tn6ln3hjaoFWC
+LxpeC6AFILDgC+J6QPFBFFehEhMybiFM0zWS6T7hG1ggJ2RgjgnrX3OzWPycWROu
+v2GNXFBY6o53bDPURQz4XGRszKnNRMKHYx8Mp2Rrll81a6HEmi6OQ4/CGLaM+GaQ
+BIYZo/7CXU6CSGuXY52cCr9dVsg9qE/F1kWicQaqcOFidt4dg9Y002gwNlTDJNfX
+qYROau5l57UEfuybDO7ljd0Hz/iu+A==
+=Nile
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/6ffe5f5a91f0ad9f48c1.txt

@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Dipendra Pokharel <dipendra.pokharel@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGBgACgkQ+qYX4yZ5
+5FVN/Qf/Sj07ilQzh0W+GwfI54GpUQg4qDC2cgav2Mx+Q0LuWk7JOAlsm4SwXeQI
+Xoaqq9oShJuxI+vQVs4B8FdPgN8VZeYyXgPD8JtCNk01FSlpWSN8I7xvctBfS294
+exUqs1Z5RVbrZNYgpF4YDAxSR02XoaDocv87MLATVuS/81TCYCqYhE1TQx+MgYrI
+OEiWxY76VAiqc0/DRaTvBxYwcUeDixag8VD1H/1v68PLZwTIuis4nofceSYLKtB7
+gvo8pQrzbNvZDy3bEBb2FYlSiHz4XFmcz9KiOAR6SqkB3wFSvIzB4KxvxwYjakPq
+NcvB1SAOGV1Ct/gRSc/0H87V9rBqiQ==
+=meSQ
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/b28035ee3f806ac88fe6.txt

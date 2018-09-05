@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Alexandre Fournier Ahizoune <alexandre.fournier@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGBMACgkQ+qYX4yZ5
+5FV9zQf+P6ZjiOMWHM7tGYlApjL7RmZcQvFTccljgolViPoGrzZ2s2JcFL+QFG8Q
+6E6U6OQLgw+cwby9pdNrX91r+AQC8yMfNI72lJhGBrxz5z0qzikmmxBq6+wAkPLp
+lrPlNO1rfUYSkTF2VP0qkk8rHQVhZ9y573s2r0A5SxQLgtYUSqie56bl/9vaeYgS
+K6pK7BRupuacHwW40t+6eWspwIjTWQfzgrR91amZrT647CIOq1OC2sYizBi68b1Q
+GB8DX2a9xxcQDmaVunkig/rImnmQmAbc/q1dN1sxqRDWde3U60oG9jhKC1Yeg+QJ
+VnciOeqUCZj0/zgJwaqK6BFQHJig5w==
+=ZtFC
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/921a23af7acc6cee7671.txt

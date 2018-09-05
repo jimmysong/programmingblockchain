@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Damilola Okuboyejo <damilola.okuboyejo@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGBcACgkQ+qYX4yZ5
+5FWLMwgAg1kSvp6HsgCqW9MkEsxF3REITJecfSPOyq2VGk5LQcTYwazxlZj+Hyvw
+BwBzAXT0j/np05CxB6gG9LQJ+RFmVJuvCamU4PJNQ1SzUGRz8b8MJivr8vx7222Y
+mvDP9qGTZUFX6AOKSTIhrLNcr82M4K3EOHlq6VPxGSYm59BmYLG2u+JFSemLwiKR
+FXfhTJw00ynYOVfyFrM1Nezv/BdPY/a/kP42UbeHE4AH1qUCzbgNqsoqdseURYsl
+BOAsOtdkiDx92N7a3d9lzyoe2UlmAlZr8c3owaNUrk8epcTrwI+QAsK+pyFS04xJ
+Oio2/Yd0+EYirn2xTvDgRFlwTzcp8g==
+=Dp5h
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/8fcdbc769021d0fd34cc.txt

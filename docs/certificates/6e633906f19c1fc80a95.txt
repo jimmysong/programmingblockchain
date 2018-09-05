@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Caner Candan <caner.candan@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGBUACgkQ+qYX4yZ5
+5FXivgf/RlXxamdKO2wz4rDod1MlgALujrtGXOTVASCZjPWgON7rXPSI7dNhkeGd
+qoX/WhuO2AYrgi5JHT1LK8iKUlvbDIhnQCR02zcHvEFF3ImS+OZbBolis5BZbun1
+H03PtbXQ1tP7cdmCe5JQZVODsEkILkv2VJ3yJOybDQpt41+uKctQTAiRtHdTheCE
+vnfGowTw0IkxnkLR9DasefMuTjh/hsHKJagEy8mcx9sHApG2T7faxu4/XSrvM1iy
+rLI3c5QqMd7YvVJYfjNMao1mha7LuLkaatMi6AOHtaMLk7qACu15hoxV1mEPHQAt
+K6/pgXKm9rOfMmSBNvBoF8XqZlV4Ng==
+=NNhk
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/6e633906f19c1fc80a95.txt

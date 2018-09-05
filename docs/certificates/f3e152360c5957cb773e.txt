@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Juan Manuel Formoso <juan.formoso@xapo.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGB8ACgkQ+qYX4yZ5
+5FV5egf+MED+hmTSUcf65oIJjEbQ7Krh0gBuwhMLXoC3EzJqozw+WoHTAd9mhlSi
+rpqosfFSEcq4y3kBPb0Bdrma7C5TTUeZJAAVHR09cLPYZkbiFYG8wJbl9MMlW7ro
+JgARXsSvU6bqfSPFebLatZAPkZkORRRVAiDe5Eo/l1CMDxoRgTdmyzlWp2MOxfxe
+6/ypvToNqAw8hkYYRA9VECxH5Sjo/8MV+bslBOEHdv2BrcMNKQSE/RFqOWpeZo0o
+mYPzBsutFIzyzFrOX3QQYGV6aABpCpxB1OtP+pn+FtAZDmyf1p50+I2eo4WI9TqM
+08EDjQKCIa5HX6Qp1mpU28Rh5R727A==
+=BEmA
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/f3e152360c5957cb773e.txt

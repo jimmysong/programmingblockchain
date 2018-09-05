@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar online on August 29-31, 2018 to  Giorgio Salluzzo <giorgio.salluzzo@xapo.com >.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAluQGB0ACgkQ+qYX4yZ5
+5FU9Jgf/RJZLyl7aKcYpTcp64e819Ycx6PF3ycd0Kujb1tJO2Yy/tk9/QcZxFOUf
+F/zvdv7GTr9VYEJPKtxlObWfRThG3NS8GKf9J04n/adv4iuyopYk1YotumThsF6S
+2YprNDWVjPSqZVK4kvsWHW5gOtbLxSMaTa+c7P4tTVwCHcTptbMkwkFAkeOlbA0K
+80Xs1Oc9I9UjXB29L282tXU7WfPn+sx215XQiGPftCIcZsdmLW7MJsQJM4cfOJlg
+9+psaD6EnvDXCVsMpqhJhzT2ss+qihMTJjF74cfx2BqNx+lmWeBCug4gZ7WCTGHO
+pJe+MA9FHMRJc2NyMdQLRiI6UUBJ3A==
+=nWqA
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/8ac4e7cef84252ae19ef.txt
