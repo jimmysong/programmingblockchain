@@ -23,9 +23,9 @@ Learn the ins and outs of blockchain development in this interactive 2-day semin
   * Validating Proof-of-Work
   * Target and Difficulty Calculations
   * Merkle Tree Construction
-  * Merkle Proofs
   * Network Message Parsing
   * Segwit
+  * Bloom Filters
   * Finding a job in Bitcoin Development
 
 

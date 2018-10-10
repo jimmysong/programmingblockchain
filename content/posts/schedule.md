@@ -27,8 +27,8 @@ type = "post"
 | 11:00am - 11:15am | Break |
 | 11:15am - 12:30pm | Session 6 - Blocks, Proof of Work, Coinbase |
 | 12:30pm - 1:00pm  | Lunch |
-| 1:00pm - 2:30pm   | Session 7 - SPV and Network Messaging |
-| 2:30pm - 2:45pm   | Break |
-| 2:45pm - 4:45pm   | Session 8 - Advanced Topics and Q&A |
+| 1:00pm - 2:45pm   | Session 7 - SPV and Network Messaging |
+| 2:45pm - 3:00pm   | Break |
+| 3:00pm - 4:45pm   | Session 8 - Bloom Filters, Segwit and Q&A |
 
 

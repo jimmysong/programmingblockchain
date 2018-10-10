@@ -6,7 +6,6 @@ type = "post"
 +++
 
 ### Planned Locations and Dates
-  * Prague, Czech Republic - October 8-9, 2018
   * Austin, TX - November 14-15, 2018
   * Melbourne, Australia - December 3-4, 2018
   * Sydney, Australia - December 6-7, 2018
