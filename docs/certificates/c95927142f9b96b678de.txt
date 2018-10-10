@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Prague on October 8-9, 2018 to Denis Vuckovac <denis.vuckovac@gmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCgAGBQJbvb1AAAoJEPqmF+MmeeRVL5IH/RBTrRLS0zDuXlotE8sSsKdU
++6U4JGIod4pkbp7V+/qxcOeAdGYNlNJJag4AfDS1i1FxE/Z/t+Ew+alchVDRzTSk
+lE/c113XkmDhWM6GypJQB2J5HvAyFezaJ0qbOTynMVWDCgzq17acfPyX8kWo8/ge
+T1H+4I32ejE2MIpEfDhzy49oPeRkDP3Tr1geZ+A6aKfbL90A0EPMuEB0Bur63APN
+wudQpPFfJrLlyi+iA6fN3NwO82x3XsH0n8xS1IwGBQwHK0pE8xv+V8LvZ2g92KXI
+e/WxiFkus+K7pBKl5Mc+KxVaeyY3l8BgFSHGSj9kbFz1q7WUibz/wbIKegPr3uY=
+=jLWX
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/c95927142f9b96b678de.txt
