@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Prague on October 8-9, 2018 to  Jakob Alexander <jakobsemail@protonmail.com>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAlvhovwACgkQ+qYX4yZ5
+5FUKTgf+MZ7eq+fxcZgjb/3wf2R6mJ2uBvM8JEH96wu+S1BFSX2nfIAOmvRYHZhD
+0YDgx/BULCy+D9EE3s/Dc1QE/8LzbhIpVFTobrFzxVsR8peSdlfOCmSeu4FP8psv
+S7j7x3l37uAdMWQ/2VKr0oqM9mvTOR16TjdCDlhW1v4XKn02nIN53J0uhKb7qESO
+yR1kOTaVKXPeCVPbtwMkeG/JmsTuTe85MjF41GV+jzpNbbZ6IjiULKOZcI43nNzr
+4tPG+9eNoIL1zGk9Fq4yvZQQ3g4FkXeYPllz/nbaBiTAj0DJ6PaXbh7VlkBXgMXF
+5UM4xwDb7bL/tBKCUJb6+BvAyMf1LQ==
+=6PmN
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/aa73a032d2470c73ad5f.txt
