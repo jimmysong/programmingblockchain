@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Austin, TX on November 14-15, 2018 to Brandon Eng <brandon@samsa.ai>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAlvzGMQACgkQ+qYX4yZ5
+5FW6zQf/VphH8k81Ay7I5tQYpvKL6i9q4vOkVimP08HWvOEzpcaakAbFL9IS6xRo
+VwAkkIAzbYGHULCVo/LXc+s2MUS/OG5mM7IBhV1SPeTWP0O+1xwObVyGDx1+xmky
+v4fiaAfg7J2OCtEXvJlJ3Crb14Rz1G7HBAbINaZ2zwKAuD1BQZMTyc/qkV9JS8Qw
+BNlRZssQN6xTziGCXF+IeA0DkJrwqm6ROSaB3k5T3vw0OQKcH5kY6YKlhRaFtedR
+5M4J0LSOWmcnAcOG6nkZBcItU0JnaF61bLnkpzchrL71VqCecy0Ix+xTlMohHe25
+xsh+RY/mxOmwKS4bISVCtUNT45nRQg==
+=FsNu
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/d3c15e6f11606604a123.txt

@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+To whom it may concern:
+
+I taught the Programming Blockchain Seminar in Austin, TX on November 14-15, 2018 to Danial Jaffry <danial@samsa.ai>.
+
+The student attended and finished the seminar to my satisfaction.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEwdeXvn0QUpEijNcM+qYX4yZ55FUFAlvzGMQACgkQ+qYX4yZ5
+5FXaGgf/SqxZ8jTbriovJmKv65oRWvFzQ5A5PHJj8vbyLFG1lW/0Ka8pqnXCd9ri
+KqJ45kBZTU7xzRdWeTPOmTBJxc04twnLrrHp+1iq2p7FXRLideJYbYGjLiCOMMpG
+NKEoQW9/5QPwTXYlJEb5fOPunAXgD/G1+A/kHVcxUPz3oD9bJtjBf0dlUIDzZIfo
+mjAhwqKPXX1Fuk9mA9l1XL3/Qg1bEMHTBTPLHnPGDv2enNAWKTVoaM/Ky9CsHYLs
+VtVRz4QD5d8Nqd+I9cZFek+4tu13Cr4fvz1Xr+kIjU9sc6+Y4i+9jyN3vvhQePXu
+RDondBL36hqM7AOEg8JwaMvS5zQcLA==
+=MMxP
+-----END PGP SIGNATURE-----
+
+
+You can find the public key for this message at: http://pgp.mit.edu/pks/lookup?op=get&search=0xFAA617E32679E455
+This message can be seen online at http://programmingblockchain.com/certificates/f18c23641444252f6eb1.txt
